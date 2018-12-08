@@ -8,7 +8,7 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 - Customer Invoice is missing prefix "Testing:"
-- Add links at wordpress.org/plugins instead of GitHub.com
+- Add links at wordpress.org/plugins instead of github.com
 - Add banners for extra software.
 
 ## [1.1] - 2018-12-08
