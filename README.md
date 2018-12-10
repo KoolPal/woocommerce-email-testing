@@ -1,4 +1,4 @@
-![Banner WooCommerce Email Testing](https://s3.amazonaws.com/images.themes.email/wc-email-testing/banner.png)
+![Banner WooCommerce Email Testing](https://s3.amazonaws.com/images.themes.email/wc-email-testing/banner-1544x500.png)
 
 # WooCommerce Email Testing
 This plugin allows you to preview and send emails into your inbox for testing purposes. For example to test email templates.
@@ -31,7 +31,7 @@ Please ensure your pull request adheres to the following guidelines:
 [GNU GPLv2](https://choosealicense.com/licenses/gpl-2.0/)
 
 ## Images
-![Screenshoot 1](https://s3.amazonaws.com/images.themes.email/wc-email-testing/screen_1.png)
-![Screenshoot 2](https://s3.amazonaws.com/images.themes.email/wc-email-testing/screen_2.png)
-![Screenshoot 3](https://s3.amazonaws.com/images.themes.email/wc-email-testing/screen_3.png)
-![Screenshoot 4](https://s3.amazonaws.com/images.themes.email/wc-email-testing/screen_4.png)
+![Screenshoot 1](https://s3.amazonaws.com/images.themes.email/wc-email-testing/screenshot-1.png)
+![Screenshoot 2](https://s3.amazonaws.com/images.themes.email/wc-email-testing/screenshot-2.png)
+![Screenshoot 3](https://s3.amazonaws.com/images.themes.email/wc-email-testing/screenshot-3.png)
+![Screenshoot 4](https://s3.amazonaws.com/images.themes.email/wc-email-testing/screenshot-4.png)
