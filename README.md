@@ -35,4 +35,3 @@ Please ensure your pull request adheres to the following guidelines:
 ![Screenshoot 2](https://s3.amazonaws.com/images.themes.email/wc-email-testing/screen_2.png)
 ![Screenshoot 3](https://s3.amazonaws.com/images.themes.email/wc-email-testing/screen_3.png)
 ![Screenshoot 4](https://s3.amazonaws.com/images.themes.email/wc-email-testing/screen_4.png)
-![Screenshoot 5](https://s3.amazonaws.com/images.themes.email/wc-email-testing/screen_5.png)
