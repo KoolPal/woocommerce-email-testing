@@ -1,9 +1,7 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
-///////////////////////////////////////////////////////
-/// Don't forget to change version number in plugin.php
-///////////////////////////////////////////////////////
+Don't forget to change version number in plugin.php
 
 
 ## [Unreleased]
