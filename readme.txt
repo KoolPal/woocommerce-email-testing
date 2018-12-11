@@ -7,6 +7,8 @@ Requires at least: 4.6
 Tested up to: 5.0
 Stable tag: trunk
 Requires PHP: 5.2.4
+License: GPLv2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 Preview & Send Emails for WooCommerce. Designing, Developing, and Testing Emails.
 
@@ -22,9 +24,6 @@ This plugin allows you to preview and send emails into your inbox for testing pu
 
 ## Usage
 Manage options and test emails via the "WooCommerce > Email Testing" option within your WordPress menu.
-
-## Plugin homepage
-[WooCommerce Email Testing](https://wordpress.org/plugins/woocommerce-email-testing)
 
 ## Plugin developer
 [ThemesEmail](https://themes.email/woocommerce.html)
@@ -48,11 +47,7 @@ Please ensure your pull request adheres to the following guidelines:
     - Check your spelling and grammar.
     - Make sure your text editor is set to remove trailing whitespace.
 
-## License
-[GNU GPLv2](https://choosealicense.com/licenses/gpl-2.0/)
-
 ## Screenshots
-
 1. Email Testing page 
 2. Email Templates page
 3. Test Email Preview
