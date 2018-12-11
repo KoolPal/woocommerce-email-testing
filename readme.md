@@ -3,12 +3,12 @@
 
 # WooCommerce Email Testing
 Preview & Send Emails for WooCommerce. Designing, Developing, and Testing Emails.  
-This plugin allows you to preview and send emails into your inbox for testing purposes. For example to test email templates.
-
-## Plugin homepage
-[WordPress.org/plugins](https://wordpress.org/plugins/woocommerce-email-testing) - Official WordPress Plugins Repository.  
+This plugin allows you to preview and send emails into your inbox for testing purposes. For example to test email templates.  
 
 The plugin was developed to test [Email Templates for WooCommerce](https://themes.email/woocommerce.html) by [ThemesEmail](https://themes.email/).
+
+## Plugin homepage
+[WordPress.org/plugins](https://wordpress.org/plugins/woocommerce-email-testing) - Official WordPress Plugins Repository.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
