@@ -28,6 +28,10 @@ Manage options and test emails via the "WooCommerce > Email Testing" option with
 ## Open Source
 [GitHub repo](https://github.com/ThemesEmail/woocommerce-email-testing)
 
+## Frequently Asked Questions
+### Does this plugin send real emails?
+- yes.
+
 ## Screenshots
 1. Email Testing page 
 2. Email Templates page
@@ -52,3 +56,7 @@ Don't forget to change version number in plugin.php.
 
 ### [1.0] - 2018-10-31
 - Initial release.
+
+## Upgrade Notice
+### [1.1]
+- minor improvement
