@@ -13,11 +13,9 @@ License URI: https://www.gnu.org/licenses/gpl-2.0.html
 Preview & Send Emails for WooCommerce. Designing, Developing, and Testing Emails.
 
 ## Description
-
 Preview & Send Emails for WooCommerce. Designing, Developing, and Testing Emails.  
-This plugin allows you to preview and send emails into your inbox for testing purposes.  
 
-The plugin was developed to test [WooCommerce Email Templates](https://themes.email/woocommerce.html) by [ThemesEmail](https://themes.email/).
+This plugin allows you to preview and send emails into your inbox for testing purposes. It was developed to test [WooCommerce Email Templates](https://themes.email/woocommerce.html) by [ThemesEmail](https://themes.email/).
 
 ## Installation
 
