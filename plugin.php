@@ -9,6 +9,13 @@ Author URI: https://themes.email/woocommerce.html
 Text Domain: woocommerce-email-testing
 License: GNU GPLv2
 License URI: https://www.gnu.org/licenses/gpl-2.0.txt
+
+Credits:
+This plugin uses Open Source components. We acknowledge and are grateful to these developers for their contributions to open source.
+@functions.php is based on work: RaiserWeb (http://raiserweb.com)
+@email-trigger.php is based on work: RaiserWeb (http://raiserweb.com)
+
+
 */
 
 
