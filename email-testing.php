@@ -6,8 +6,6 @@ if ( ! defined( 'ABSPATH' ) ) {
 
 ?>
 
-<link rel="stylesheet" type="text/css" href="<?php echo plugin_dir_url( __FILE__ ) . 'includes/css/style.css'; ?>">
-
 <div class="wrap">
     <h1 class="wp-heading-inline">Email Testing
         <!-- <span class="title-count">20</span> -->

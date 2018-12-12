@@ -6,8 +6,6 @@ if ( ! defined( 'ABSPATH' ) ) {
 
 ?>
 
-<link rel="stylesheet" type="text/css" href="<?php echo plugin_dir_url( __FILE__ ) . 'css/style.css'; ?>">
-
 <section id="portfolio">
     <div class="container">
         <div class="row">
