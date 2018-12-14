@@ -2,7 +2,7 @@
 
 Contributors: ThemesEmail
 Donate link: https://themes.email/woocommerce.html
-Tags: test emails, preview emails, send emails, email templates, debug woocommerce emails
+Tags: woocommerce email test, woocommerce email testing, email test, test emails, preview emails, send emails, email templates, debug woocommerce emails
 Requires at least: 4.6
 Tested up to: 5.0.1
 Stable tag: trunk
