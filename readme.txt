@@ -26,7 +26,7 @@ This plugin allows you to preview and send emails into your inbox for testing pu
 Manage options and test emails via the "WooCommerce > Email Testing" option within your WordPress menu.
 
 ## Open Source
-[GitHub repo](https://github.com/ThemesEmail/woocommerce-email-testing)
+[GitHub repository](https://github.com/ThemesEmail/woocommerce-email-testing)
 
 ## Frequently Asked Questions
 ### Does this plugin send real emails?
@@ -46,8 +46,8 @@ Don't forget to change version number in plugin.php.
 
 
 ### [Unreleased]
-- Customer Invoice prefix is missing.
-- Add banners.
+- prefix is missing.
+- add banners.
 
 ### [1.1] - 2018-12-08
 - Code redesign. More readable code.
