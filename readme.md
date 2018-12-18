@@ -6,8 +6,37 @@ Preview & Send Emails for WooCommerce. Designing, Developing, and Testing Emails
 
 This plugin allows you to preview and send emails into your inbox for testing purposes. It was developed to test [WooCommerce Email Templates](https://themes.email/woocommerce.html) by [ThemesEmail](https://themes.email/).
 
-## Plugin homepage
-[WordPress.org/plugins](https://wordpress.org/plugins/woo-email-testing/) - Official WordPress Plugins Repository.
+## Installation
+
+    1. Upload this plugin as a zip file in your WordPress menu "Plugins > Add New > Upload Plugin", or install the plugin through the WordPress plugins menu directly.
+    2. Activate the plugin through the "Plugins" menu in WordPress
+
+## Usage
+Manage options and test emails via the "WooCommerce > Email Testing" option within your WordPress menu.
+
+## Screenshots
+![Email Testing page](https://s3.amazonaws.com/images.themes.email/wc-email-testing/screenshot-1.png)
+![Email Templates page](https://s3.amazonaws.com/images.themes.email/wc-email-testing/screenshot-2.png)
+![Test Email Preview](https://s3.amazonaws.com/images.themes.email/wc-email-testing/screenshot-3.png)
+![Test Email in Gmail](https://s3.amazonaws.com/images.themes.email/wc-email-testing/screenshot-4.png)
+
+## Changelog
+All notable changes to this project will be documented in this file.
+
+Don't forget to change version number in plugin.php.
+
+### [Unreleased]
+- prefix is missing in customers invoice.
+- add banners.
+- selfhosted plugin. Updates.
+
+### [1.1] - 2018-12-08
+- Code redesign. More readable code.
+- Make sure email isn't sent to customer (by Muhammad Usama M.).
+- New notifications.
+
+### [1.0] - 2018-10-31
+- Initial release.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
@@ -27,9 +56,3 @@ Please ensure your pull request adheres to the following guidelines:
 
 ## License
 [GNU GPLv2](https://choosealicense.com/licenses/gpl-2.0/)
-
-## Screenshots
-![Email Testing page](https://s3.amazonaws.com/images.themes.email/wc-email-testing/screenshot-1.png)
-![Email Templates page](https://s3.amazonaws.com/images.themes.email/wc-email-testing/screenshot-2.png)
-![Test Email Preview](https://s3.amazonaws.com/images.themes.email/wc-email-testing/screenshot-3.png)
-![Test Email in Gmail](https://s3.amazonaws.com/images.themes.email/wc-email-testing/screenshot-4.png)
