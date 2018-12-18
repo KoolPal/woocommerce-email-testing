@@ -8,7 +8,7 @@ This plugin allows you to preview and send emails into your inbox for testing pu
 
 ## Installation
 
-    1. Download plugin. Click at the green button "Clone or download > Download ZIP".
+    1. Download. Click at the green button "Clone or download > Download ZIP".
     2. Upload this plugin as a zip file in your WordPress menu "Plugins > Add New > Upload Plugin".
     3. Activate the plugin through the "Plugins" menu in WordPress
 
