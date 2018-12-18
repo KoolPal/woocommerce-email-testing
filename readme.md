@@ -8,8 +8,9 @@ This plugin allows you to preview and send emails into your inbox for testing pu
 
 ## Installation
 
-    1. Upload this plugin as a zip file in your WordPress menu "Plugins > Add New > Upload Plugin", or install the plugin through the WordPress plugins menu directly.
-    2. Activate the plugin through the "Plugins" menu in WordPress
+    1. Download plugin. Click at the green button "Clone or download > Download ZIP".
+    2. Upload this plugin as a zip file in your WordPress menu "Plugins > Add New > Upload Plugin".
+    3. Activate the plugin through the "Plugins" menu in WordPress
 
 ## Usage
 Manage options and test emails via the "WooCommerce > Email Testing" option within your WordPress menu.
