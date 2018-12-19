@@ -8,8 +8,8 @@ This plugin allows you to preview and send emails into your inbox for testing pu
 
 ## Installation
 
-    1. Click at the green button "Clone or download > Download ZIP" to download a plugin.
-    2. Upload as a zip file in your WordPress menu "Plugins > Add New > Upload Plugin".
+    1. Download [the latest release](https://github.com/ThemesEmail/woocommerce-email-testing/releases/latest).
+    2. Upload as a ZIP file in your WordPress menu "Plugins > Add New > Upload Plugin".
     3. Activate the plugin through the "Plugins" menu in WordPress.
 
 ## Usage
@@ -22,10 +22,13 @@ Manage options and test emails via the "WooCommerce > Email Testing" option with
 ![Test Email in Gmail](https://s3.amazonaws.com/images.themes.email/wc-email-testing/screenshot-4.png)
 
 ## How to Release an Update
-- Change the version number in the plugin.php
+- Create a new release using the "Releases" feature on GitHub. 
 
 ## Changelog
 All notable changes to this project will be documented in this file.
+
+Don't forget change the version number in plugin.php
+
 
 ### [Unreleased]
 - prefix is missing in customers invoice.
