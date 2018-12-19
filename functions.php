@@ -249,9 +249,7 @@ add_action( 'admin_enqueue_scripts', 'add_css_to_menu_page' );
 // Update Checker Plugin integration
 require 'plugin-update-checker/plugin-update-checker.php';
 $myUpdateChecker = Puc_v4_Factory::buildUpdateChecker(
-	'https://github.com/ThemesEmail/woocommerce-email-testing/',
+	'https://raw.githubusercontent.com/ThemesEmail/update.json',
 	__FILE__,
 	'woocommerce-email-testing'
 );
-//call the enableReleaseAssets() method after creating the update checker instance
-$myUpdateChecker->getVcsApi()->enableReleaseAssets();

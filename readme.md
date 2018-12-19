@@ -22,13 +22,14 @@ Manage options and test emails via the "WooCommerce > Email Testing" option with
 ![Test Email in Gmail](https://s3.amazonaws.com/images.themes.email/wc-email-testing/screenshot-4.png)
 
 ## How to Release an Update
-- Create a new release using the "Releases" feature on GitHub. 
+- xxxxxxxxxxxxxx
 
 ## Changelog
 All notable changes to this project will be documented in this file.
 
-Don't forget change the version number in plugin.php
-
+Don't forget change the version number in:
+- plugin.php
+- update.json
 
 ### [Unreleased]
 - prefix is missing in customers invoice.
