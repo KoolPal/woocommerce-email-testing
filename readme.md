@@ -21,18 +21,16 @@ Manage options and test emails via the "WooCommerce > Email Testing" option with
 ![Test Email Preview](https://s3.amazonaws.com/images.themes.email/wc-email-testing/screenshot-3.png)
 ![Test Email in Gmail](https://s3.amazonaws.com/images.themes.email/wc-email-testing/screenshot-4.png)
 
-## Changelog
-All notable changes to this project will be documented in this file.
+## How to Release an Update
+- Change the version number in the JSON file and make sure that download_url points to the latest version.  
+- Update the other fields if necessary.  
 
 Don't forget to change version number in:
 - plugin.php
 - update.json & GitHub.com release (for automatic updates)
 
-How to Release an Update:
-- Change the version number in the JSON file and make sure that download_url points to the latest version.  
-- Update the other fields if necessary.  
-
-
+## Changelog
+All notable changes to this project will be documented in this file.
 
 ### [Unreleased]
 - prefix is missing in customers invoice.
