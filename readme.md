@@ -22,12 +22,8 @@ Manage options and test emails via the "WooCommerce > Email Testing" option with
 ![Test Email in Gmail](https://s3.amazonaws.com/images.themes.email/wc-email-testing/screenshot-4.png)
 
 ## How to Release an Update
-- Change the version number in the JSON file and make sure that download_url points to the latest version.  
-- Update the other fields if necessary.  
-
-Don't forget to change version number in:
-- plugin.php
-- update.json & GitHub.com release (for automatic updates)
+- Change the version number in the JSON file (Update the other fields if necessary).  
+- Change the version number in the plugin.php
 
 ## Changelog
 All notable changes to this project will be documented in this file.
