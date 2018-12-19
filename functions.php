@@ -249,7 +249,7 @@ add_action( 'admin_enqueue_scripts', 'add_css_to_menu_page' );
 // Update Checker Plugin integration
 require 'plugin-update-checker/plugin-update-checker.php';
 $myUpdateChecker = Puc_v4_Factory::buildUpdateChecker(
-	'https://raw.githubusercontent.com/ThemesEmail/update.json',
+	'https://raw.githubusercontent.com/ThemesEmail/woocommerce-email-testing/master/update.json',
 	__FILE__,
 	'woocommerce-email-testing'
 );
