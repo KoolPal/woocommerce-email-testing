@@ -1,9 +1,9 @@
 <?php
 /*
 Plugin Name: WooCommerce Email Testing
-Plugin URI: https://wordpress.org/plugins/woo-email-testing/
+Plugin URI: https://github.com/ThemesEmail/woocommerce-email-testing
 Description: Preview & Send Emails for WooCommerce. Designing, Developing, and Testing Emails.
-Version: 1.1
+Version: 1.2
 Author: ThemesEmail
 Author URI: https://themes.email/woocommerce.html
 Text Domain: woocommerce-email-testing

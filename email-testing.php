@@ -10,7 +10,7 @@ if ( ! defined( 'ABSPATH' ) ) {
     <h1 class="wp-heading-inline">Email Testing
         <!-- <span class="title-count">20</span> -->
     </h1>
-    <a href="https://wordpress.org/plugins/woo-email-testing/" target="_blank" class="page-title-action">Learn More</a>
+    <a href="https://github.com/ThemesEmail/woocommerce-email-testing" target="_blank" class="page-title-action">Learn More</a>
     <hr class="wp-header-end">
 
     <br class="clear">

@@ -24,12 +24,22 @@ Manage options and test emails via the "WooCommerce > Email Testing" option with
 ## Changelog
 All notable changes to this project will be documented in this file.
 
-Don't forget to change version number in plugin.php.
+Don't forget to change version number in:
+- plugin.php
+- update.json & GitHub.com release (for automatic updates)
+
+How to Release an Update:
+- Change the version number in the JSON file and make sure that download_url points to the latest version.  
+- Update the other fields if necessary.  
+
+
 
 ### [Unreleased]
 - prefix is missing in customers invoice.
 - add banners.
-- selfhosted plugin. Updates.
+
+### [1.2] - 2018-12-19
+- Automatic updates by [YahnisElsts/plugin-update-checker](https://github.com/YahnisElsts/plugin-update-checker/)
 
 ### [1.1] - 2018-12-08
 - Code redesign. More readable code.
