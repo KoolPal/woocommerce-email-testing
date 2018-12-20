@@ -1,4 +1,4 @@
-# WooCommerce Email Testing
+﻿# WooCommerce Email Testing
 
 Contributors: ThemesEmail
 Donate link: https://themes.email/woocommerce.html
