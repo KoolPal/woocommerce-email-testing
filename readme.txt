@@ -35,13 +35,6 @@ Manage options and test emails via the "WooCommerce > Email Testing" option with
 ### Does this plugin send real emails?
 - yes.
 
-## Screenshots
-1. Email Testing page 
-2. Email Templates page
-3. Test Email Preview
-4. Test Email in Gmail
-5. Open Source on GitHub
-
 ## Changelog
 All notable changes to this project will be documented in this file.
 
