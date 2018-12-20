@@ -22,9 +22,8 @@ Manage options and test emails via the "WooCommerce > Email Testing" option with
 ![Test Email Preview](https://s3.amazonaws.com/images.themes.email/wc-email-testing/screenshot-3.png)
 ![Test Email in Gmail](https://s3.amazonaws.com/images.themes.email/wc-email-testing/screenshot-4.png)
 
-## How to Release an Update
-- ******
-- ******
+## How to Release an Update (for Contributors only)
+Create a new release using the "Releases" feature on GitHub. The tag name and release title don't matter. The description is optional, but if you do provide one, it will be displayed when the user clicks the "View version x.y.z details" link on the "Plugins" page. Note that PUC ignores releases marked as "This is a pre-release".
 
 ## Changelog
 All notable changes to this project will be documented in this file.
