@@ -4,7 +4,7 @@ Contributors: ThemesEmail
 Donate link: https://themes.email/woocommerce.html
 Tags: woocommerce email test, woocommerce email testing, email test, test emails, preview emails, send emails, email templates, debug woocommerce emails
 Requires at least: 4.6
-Tested up to: 5.0.1
+Tested up to: 5.0.2
 Stable tag: 1.3
 Requires PHP: 5.2.4
 License: GPLv2 or later
@@ -46,11 +46,6 @@ Manage options and test emails via the "WooCommerce > Email Testing" option with
 All notable changes to this project will be documented in this file.
 
 Don't forget to change version number in plugin.php.
-
-
-### [Unreleased]
-- prefix is missing.
-- add banners.
 
 ### [1.1] - 2018-12-08
 - Code redesign. More readable code.
