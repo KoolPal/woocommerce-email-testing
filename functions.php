@@ -244,11 +244,3 @@ function add_css_to_menu_page()
     }         
 }
 add_action( 'admin_enqueue_scripts', 'add_css_to_menu_page' );
-
-// implement YahnisElsts/plugin-update-checker
-require 'plugin-update-checker/plugin-update-checker.php';
-$myUpdateChecker = Puc_v4_Factory::buildUpdateChecker(
-	'https://github.com/ThemesEmail/woocommerce-email-testing/blob/master/updates/details.json?raw=true',
-	__FILE__,
-	'woocommerce-email-testing'
-);
