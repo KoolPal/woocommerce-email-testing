@@ -23,15 +23,13 @@ Manage options and test emails via the "WooCommerce > Email Testing" option with
 ![Test Email in Gmail](https://s3.amazonaws.com/images.themes.email/wc-email-testing/screenshot-4.png)
 
 ## How to Release an Update (for Contributors only)
-Create a new release using the "Releases" feature on GitHub. The tag name and release title don't matter. The description is optional, but if you do provide one, it will be displayed when the user clicks the "View version x.y.z details" link on the "Plugins" page. Note that PUC ignores releases marked as "This is a pre-release".
+1. Change the version number in the **plugin.php.
+1. Change the version number in the **JSON file. Update the other fields if necessary.
+1. Create a new release using the "Releases" feature on GitHub.
+1. Upload binaries.
 
 ## Changelog
 All notable changes to this project will be documented in this file.
-
-Don't forget change the version number in:
-* plugin.php
-* updates.json
-
 
 ### [Unreleased]
 - prefix is missing in customers invoice.
