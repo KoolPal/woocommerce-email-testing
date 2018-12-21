@@ -23,10 +23,9 @@ Manage options and test emails via the "WooCommerce > Email Testing" option with
 ![Test Email in Gmail](https://s3.amazonaws.com/images.themes.email/wc-email-testing/screenshot-4.png)
 
 ## How to Release an Update (for Contributors only)
-1. Change the version number in the **plugin.php**.
-1. Change the version number in the **JSON** file. Update the other fields if necessary.
-1. Create a new release using the "Releases" feature on GitHub.
-1. Upload binaries (woocommerce-email-testing.zip).
+1. Change the version number in the "**plugin.php**".
+1. Create a new release using the "**Releases**" feature on GitHub.
+1. Upload binaries as "**woocommerce-email-testing.zip**".
 
 ## Changelog
 All notable changes to this project will be documented in this file.

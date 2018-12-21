@@ -21,6 +21,14 @@ if ( ! defined( 'ABSPATH' ) ) {
     exit;
 }
 
+// Automatic Updates. Plugin implemantation YahnisElsts/plugin-update-checker
+require 'plugin-update-checker/plugin-update-checker.php';
+$myUpdateChecker = Puc_v4_Factory::buildUpdateChecker(
+	'https://github.com/ThemesEmail/woocommerce-email-testing/',
+	__FILE__,
+	'woocommerce-email-testing'
+);
+
 
 if ( in_array( 'woocommerce/woocommerce.php', apply_filters( 'active_plugins', get_option( 'active_plugins' ) ) ) ) {
 
