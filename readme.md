@@ -14,7 +14,7 @@ Download [the latest release](https://github.com/ThemesEmail/woocommerce-email-t
     2. Activate the plugin through the "Plugins" menu in WordPress.
 
 ## Usage
-Manage options and test emails via the "WooCommerce > Email Testing" option within your WordPress menu.
+Manage options and test emails via the "**WooCommerce > Email Testing**" option within your WordPress menu.
 
 ## Screenshots
 ![Email Testing page](https://s3.amazonaws.com/images.themes.email/wc-email-testing/screenshot-1.png)
