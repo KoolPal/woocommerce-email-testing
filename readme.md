@@ -24,6 +24,7 @@ Manage options and test emails via the "WooCommerce > Email Testing" option with
 
 ## How to Release an Update (for Contributors only)
 1. Change the version number in the "**plugin.php**".
+1. Change the version number in the "**readme.txt**".
 1. Create a new release using the "**Releases**" feature on GitHub.
 1. Upload binaries as "**woocommerce-email-testing.zip**".
 
@@ -34,7 +35,7 @@ All notable changes to this project will be documented in this file.
 - prefix is missing in customers invoice.
 - add banners.
 
-### [1.2] - 2018-12-19
+### [1.2] - 2018-12-22
 - Automatic updates by [YahnisElsts/plugin-update-checker](https://github.com/YahnisElsts/plugin-update-checker/)
 
 ### [1.1] - 2018-12-08
