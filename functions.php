@@ -249,9 +249,9 @@ add_action( 'admin_enqueue_scripts', 'add_css_to_menu_page' );
 // plugin YahnisElsts/plugin-update-checker implementation
 require 'plugin-update-checker/plugin-update-checker.php';
 $myUpdateChecker = Puc_v4_Factory::buildUpdateChecker(
-	'https://github.com/ThemesEmail/woocommerce-email-testing/',
+	'https://github.com/ThemesEmail/woocommerce-email-testing/blob/master/updates.json?raw=true',
 	__FILE__,
 	'woocommerce-email-testing'
 );
 //call the enableReleaseAssets() method after creating the update checker instance
-$myUpdateChecker->getVcsApi()->enableReleaseAssets();
+//$myUpdateChecker->getVcsApi()->enableReleaseAssets();

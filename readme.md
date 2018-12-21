@@ -28,7 +28,9 @@ Create a new release using the "Releases" feature on GitHub. The tag name and re
 ## Changelog
 All notable changes to this project will be documented in this file.
 
-Don't forget change the version number in **plugin.php**
+Don't forget change the version number in:
+* plugin.php
+* updates.json
 
 
 ### [Unreleased]
