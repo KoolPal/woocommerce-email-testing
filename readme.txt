@@ -47,6 +47,12 @@ All notable changes to this project will be documented in this file.
 
 Don't forget to change version number in plugin.php.
 
+### [1.3] - 2018-12-21
+- xx2
+
+### [1.2] - 2018-12-19
+- xx
+
 ### [1.1] - 2018-12-08
 - Code redesign. More readable code.
 - Make sure email isn't sent to customer (by Muhammad Usama M.).
@@ -56,5 +62,5 @@ Don't forget to change version number in plugin.php.
 - Initial release.
 
 ## Upgrade Notice
-### [1.1]
+### [1.3]
 - minor improvement
