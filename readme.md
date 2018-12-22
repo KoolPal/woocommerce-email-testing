@@ -34,7 +34,6 @@ All notable changes to this project will be documented in this file.
 ### [Unreleased]
 - Prefix is missing in customers invoice.
 - Add banners.
-- Compatibility with WordPress ***: Unknown
 - Missing icons, banners in the update workflow. (due to plugin update checker)
 
 ### [1.2] - 2018-12-22
