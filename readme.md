@@ -32,8 +32,10 @@ Manage options and test emails via the "**WooCommerce > Email Testing**" option 
 All notable changes to this project will be documented in this file.
 
 ### [Unreleased]
-- prefix is missing in customers invoice.
-- add banners.
+- Prefix is missing in customers invoice.
+- Add banners.
+- Compatibility with WordPress ***: Unknown
+- Missing icons, banners in the update workflow. (due to plugin update checker)
 
 ### [1.2] - 2018-12-22
 - Automatic updates by [YahnisElsts/plugin-update-checker](https://github.com/YahnisElsts/plugin-update-checker/)
