@@ -35,9 +35,6 @@ All notable changes to this project will be documented in this file.
 - prefix is missing in customers invoice.
 - add banners.
 
-### [1.3] - 2018-12-23
-- test if works
-
 ### [1.2] - 2018-12-22
 - Automatic updates by [YahnisElsts/plugin-update-checker](https://github.com/YahnisElsts/plugin-update-checker/)
 
