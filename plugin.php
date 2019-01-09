@@ -3,7 +3,7 @@
 Plugin Name: WooCommerce Email Testing
 Plugin URI: https://github.com/ThemesEmail/woocommerce-email-testing
 Description: Preview & Send Emails for WooCommerce. Designing, Developing, and Testing Emails.
-Version: 1.2
+Version: 1.3
 Author: ThemesEmail
 Author URI: https://themes.email/woocommerce.html
 Text Domain: woocommerce-email-testing
@@ -106,7 +106,7 @@ if ( in_array( 'woocommerce/woocommerce.php', apply_filters( 'active_plugins', g
             global $pagenow;
             if ( ( 'admin.php' === $pagenow ) && ( 'wc-email-templates' === $_GET['page'] ) ) {
                 echo    '<div class="update notice notice-success is-dismissible"><p>
-                    <strong>Thanks for installing WooCommerce Email Testing. We also recommend using <a href="https://themes.email/woocommerce.html" target="_blank" onclick="ga(\'send\', \'event\', \'WooCommerce Email Testing\', \'WET\', \'Best Selling Templates MSG\');">WooCommerce Email Templates</a>. 2018\'s Best Selling WooCommerce Email Templates on Envato.</strong>
+                    <strong>Thanks for installing WooCommerce Email Testing. We also recommend using <a href="https://themes.email/woocommerce.html" target="_blank" onclick="ga(\'send\', \'event\', \'WooCommerce Email Testing\', \'WET\', \'Best Selling Templates MSG\');">WooCommerce Email Templates</a>. 2019\'s Best Selling WooCommerce Email Templates on Envato.</strong>
                     </p></div>';
             }
         }

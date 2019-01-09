@@ -6,6 +6,14 @@ if ( ! defined( 'ABSPATH' ) ) {
 
 ?>
 
+<style type="text/css" media="screen">
+    .testing{clear: both; height: 60px; margin: 6px 0 4px; vertical-align: middle;}
+    .testing select, .testing input[type="text"]{ height: 32px; min-width: 180px;}
+    .nolabel input[type="submit"], .nolabel button{height: 32px !important; margin-top: 20px !important;}
+    .alignleft{text-align: left;}
+    .actions{padding: 2px 8px 0 0;}
+</style>
+
 <div class="wrap">
     <h1 class="wp-heading-inline">Email Testing
         <!-- <span class="title-count">20</span> -->

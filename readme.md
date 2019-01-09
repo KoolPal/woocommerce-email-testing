@@ -36,6 +36,9 @@ All notable changes to this project will be documented in this file.
 - Add banners.
 - Missing icons, banners in the update workflow. (due to plugin update checker)
 
+### [1.3] - 2018-01-09
+ - Email Templates loaded from S3
+
 ### [1.2] - 2018-12-22
 - Automatic updates by [YahnisElsts/plugin-update-checker](https://github.com/YahnisElsts/plugin-update-checker/)
 

@@ -229,18 +229,3 @@ function wet_get_testing_email_options() {
     return $return;
 
 }
-
-
-// add custom CSS
-function add_css_to_menu_page()
-{
-    global $pagenow;
-
-    if ( ( 'admin.php' === $pagenow ) && ( 'wc-email-templates' === $_GET['page'] ) || ( 'admin.php' === $pagenow ) && ( 'wc-email-testing' === $_GET['page'] ) ) {
-        
-        wp_register_style( 'style-css', plugin_dir_url( __FILE__ ) . 'includes/css/style.css', false, '1.0.0' );
-        wp_enqueue_style( 'style-css' );
-        
-    }         
-}
-add_action( 'admin_enqueue_scripts', 'add_css_to_menu_page' );
