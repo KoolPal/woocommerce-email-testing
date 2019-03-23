@@ -16,6 +16,9 @@ Download [the latest release](https://github.com/ThemesEmail/woocommerce-email-t
 ## Usage
 Manage options and test emails via the "**WooCommerce > Email Testing**" option within your WordPress menu.
 
+## Video
+[![WooCommerce Email Templates](http://img.youtube.com/vi/HdeG0vHVyqc/0.jpg)](http://www.youtube.com/watch?v=HdeG0vHVyqc "WooCommerce Email Templates")
+
 ## Screenshots
 ![Email Testing page](https://s3.amazonaws.com/images.themes.email/wc-email-testing/screenshot-1.png)
 ![Email Templates page](https://s3.amazonaws.com/images.themes.email/wc-email-testing/screenshot-2.png)
