@@ -7,6 +7,8 @@ Version: 1.3
 Author: ThemesEmail
 Author URI: https://themes.email/woocommerce.html
 Text Domain: woocommerce-email-testing
+WC requires at least: 3.0.0
+WC tested up to: 3.6.4
 License: GNU GPLv2
 License URI: https://www.gnu.org/licenses/gpl-2.0.txt
 
